@@ -103,6 +103,10 @@ Explore booking behaviour using variables such as:
 - In-flight meal preferences.
 - Flight duration.
 
+<img width="1008" height="763" alt="image" src="https://github.com/user-attachments/assets/6f3bbad6-1246-4c12-aaf8-6897b959d3cc" />
+
+
+
 The purpose is to understand the data and identify potentially useful patterns before modelling.
 
 #### 3. Data Preprocessing
