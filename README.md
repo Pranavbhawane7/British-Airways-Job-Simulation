@@ -157,6 +157,9 @@ Predicting booking completion can help identify customer and booking characteris
 
 Model predictions should be validated before being used to guide real business decisions.
 
+<img width="1646" height="911" alt="image" src="https://github.com/user-attachments/assets/c6067c26-cc07-4ad0-9d64-3f3044a9d96b" />
+
+
 ## Datasets
 
 This repository contains two datasets.
